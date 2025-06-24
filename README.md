@@ -6,7 +6,7 @@ Creater Bender
 Bu Yii2 uchun yengil `Selectize.js` asosidagi widget.
 
 ## O‘rnatish
-composer require bender/yii2-selectize-widget
+composer require bendercha/yii2-selectize-widget
 
 ## Foydalanish
 
@@ -23,4 +23,4 @@ echo $form->field($model, 'tags')->widget(SelectizeInput::class, [
 ]);
 
 ```bash
-composer require bender/yii2-selectize-widget
+composer require bendercha/yii2-selectize-widget
