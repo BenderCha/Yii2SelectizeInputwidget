@@ -1,0 +1,24 @@
+{
+  "name": "Bender/yii2-selectize-widget",
+  "description": "Custom Yii2 Selectize.js input widget",
+  "type": "yii2-extension",
+  "keywords": ["yii2", "widget", "selectize", "input"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bender",
+      "email": "smartttik@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Bender\\selectize\\": "src/"
+    }
+  },
+  "require": {
+    "yiisoft/yii2": "~2.0.0"
+  },
+  "extra": {
+    "yii\\composer\\Installer::postCreateProject": "yii\\composer\\Installer::postCreateProject"
+  }
+}
