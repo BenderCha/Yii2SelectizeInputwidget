@@ -7,6 +7,7 @@ Bu Yii2 uchun yengil `Selectize.js` asosidagi widget.
 
 ## O‘rnatish
 composer require bendercha/yii2-selectize-widget
+composer require bendercha/yii2-selectize-widget:dev-main
 
 ## Foydalanish
 
