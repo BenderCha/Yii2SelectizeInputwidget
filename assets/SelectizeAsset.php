@@ -1,6 +1,6 @@
 <?php
 
-namespace bender\selectize;
+namespace bendercha\selectize;
 
 use yii\web\AssetBundle;
 
